@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(Array)
+add_executable(Remove_Duplicates_from_Sorted_Array Remove_Duplicates_from_Sorted_Array.cpp test_Remove_Duplicates_from_Sorted_Array.cpp)
